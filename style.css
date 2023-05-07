@@ -27,8 +27,6 @@ main>div:first-child{
   font-size: 11px; text-align: center; 
   margin-top: 5px;
   color:white;
-
-  /* color: hsl(228, 45%, 44%); */
 }
 .attribution a { 
   color: hsl(178, 100%, 50%);
@@ -36,7 +34,7 @@ main>div:first-child{
 
 h1{
   color:white;
-  font-size: 18px;
+  font-size: 22px;
   margin-top: 6px;
   margin-left: 25px;
   margin-bottom: 28px;
@@ -63,7 +61,7 @@ main>div>div.coinsDays{
   margin-top: 34px;
   justify-content: space-between;
   padding-bottom: 29px;
-  border-bottom: white solid 1px;
+  border-bottom: #2F4159 solid 1px;
 }
 
 main>div>div>div{
